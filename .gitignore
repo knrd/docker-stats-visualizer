@@ -1,0 +1,6 @@
+activate
+docker_stats_*.log
+docker_stats_*.html
+/venv*
+
+
